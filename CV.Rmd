@@ -1,0 +1,19 @@
+---
+title: "Curriculum Vitae"
+output: html_document
+---
+
+
+
+<center>
+```{r, echo=FALSE, message=FALSE}
+library(xfun)
+xfun::embed_file("CV.pdf")
+```
+<center>
+
+
+```{r, echo=FALSE, out.width="75%", out.height="75%"}
+knitr::include_graphics("intertidalwomb.png")
+```
+

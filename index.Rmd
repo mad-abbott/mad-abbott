@@ -1,0 +1,19 @@
+---
+title: <center> Madeleine (Mads) H. Abbott <center>
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+<center>
+```{r, echo=FALSE, out.width="50%", out.height="50%"}
+knitr::include_graphics("photoquad.png")
+```
+<center>
+
+
+
+<center>
+## MSc. Student at the University of Victoria 
+<center>

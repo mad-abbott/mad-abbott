@@ -1,0 +1,17 @@
+---
+title: "Contact me"
+output: html_document
+---
+
+Email: madabbott@uvic.ca
+
+Bluesky
+
+LinkedIn
+
+GitHub
+
+
+```{r, echo=FALSE, out.width="75%", out.height="75%", message=FALSE}
+knitr::include_graphics("quadrat.png")
+```
