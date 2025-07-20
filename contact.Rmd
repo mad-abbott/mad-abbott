@@ -5,11 +5,11 @@ output: html_document
 
 Email: madabbott@uvic.ca
 
-Bluesky
+[Bluesky](https://bsky.app/profile/mad-abbott.bsky.social) 
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/madeleine-abbott-a1650b219/?originalSubdomain=ca)
 
-GitHub
+[GitHub](https://github.com/mad-abbott/) 
 
 
 ```{r, echo=FALSE, out.width="75%", out.height="75%", message=FALSE}
