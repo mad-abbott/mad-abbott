@@ -17,7 +17,7 @@ My current research focuses on the ecology of Sylon in BC shrimp and prawns. I a
 knitr::include_graphics("peltolirio.png")
 ```
 
-During my undergraduate at University of British Columbia, I had the opportunity to conduct field work and laboratory work exploring the parasites of the hermit crab Pagurus hirsutiusculus in the [Harley lab](https://www.zoology.ubc.ca/harleylab/). We found that multiple species of parasite are present in this host across BC, and discovered that while rhizocephalan infection may not alter host metabolism, it could decrease host survival after heating events. Publication coming soon!
+During my undergraduate at University of British Columbia, I had the opportunity to conduct field work and laboratory work exploring the parasites of the hermit crab Pagurus hirsutiusculus in the [Harley lab](https://www.zoology.ubc.ca/harleylab/). We found that multiple species of parasite are present in this host across BC, and discovered that while rhizocephalan infection may not alter host metabolism, it could decrease host survival after heating events. Read about it more [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0335145)
 
 ## Intertidal water biogeochemistry
 
